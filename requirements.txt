@@ -1,0 +1,14 @@
+pytest
+numpy
+pandas
+scikit-learn
+kneed
+matplotlib
+seaborn
+xgboost
+scipy
+fairlearn
+mlflow
+prophet
+shap
+apache-airflow-providers-google
